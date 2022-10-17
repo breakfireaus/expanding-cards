@@ -2,6 +2,7 @@
 
 ## Description
 
+This projext was built to create cards that could expand when clicked and display a title. The purpose of this project was to practice vanilla javascript, html and CSS
 
 
 ## Table of Contents
@@ -13,16 +14,15 @@
 
 ## Installation
 
-
+the site has been deployed 
 
 ## Usage
 - Main Page
-![alt text](assets/images/Screenshot-1.jpg)
+![main image](assets/images/Screenshot-1.jpg)
 
 ## Credits
 
-- Ask BCS team @ Monash university Bootcamp
-- Tutor for getting me on track
+- Traversy Media
 
 ## License
 
