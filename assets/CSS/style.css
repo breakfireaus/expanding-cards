@@ -1,13 +1,16 @@
-:root {
-  --c-black: #000000;
-  --c-white: #ffffff;
-  --c-lgrey: #d3d3d3;
-  --c-red: #ff6961;
-  --c-green: #77dd77;
-  --c-turquoise: #06aed5;
-  --c-orange: #ee964b;
-  --c-yellow: #f4d35e;
-  --c-dblue: #023047;
-  --c-blue: #219ebc;
-  --c-lblue: #8ecae6;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
 }
