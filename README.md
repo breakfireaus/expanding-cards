@@ -2,7 +2,7 @@
 
 ## Description
 
-This projext was built to create cards that could expand when clicked and display a title. The purpose of this project was to practice vanilla javascript, html and CSS
+This projext was built to create cards that could expand when clicked and display a title. The purpose of this project was to practice vanilla javascript, html and CSS, and so people can have a different way to display a image gallery.
 
 
 ## Table of Contents
@@ -14,10 +14,10 @@ This projext was built to create cards that could expand when clicked and displa
 
 ## Installation
 
-the site has been deployed 
+The application has been deployed to https://breakfireaus.github.io/expanding-cards/
 
 ## Usage
-- Main Page
+- Page
 ![main image](assets/images/Screenshot-1.jpg)
 
 ## Credits
